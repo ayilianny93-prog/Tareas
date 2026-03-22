@@ -1,0 +1,24 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Entorno virtual
+venv/
+env/
+.env/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
